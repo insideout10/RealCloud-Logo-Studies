@@ -1,9 +1,9 @@
-![InSideOut10 logo](https://github.com/insideout10/logo-generator/raw/master/images/logo-0018.png)
+![InSideOut10 logo](https://github.com/insideout10/RealCloud-Logo-Studies/raw/master/images/realcloud-studies.png)
 
 
 ## RealCloud Logo Studies - Overview
 
-Welcome to the **RealCloud Logo Studies**, a simple sketch developed with [Processing](http://processing.org/) while designing the logo for our middleware application for Cloud Video Streaming.
+Welcome to the **RealCloud Logo Studies**, a simple sketch developed with [Processing](http://processing.org/) while designing the logo for our middleware application targeting Cloud Video Streaming.
 
 
 ### Announcements
@@ -19,15 +19,11 @@ Developed on Processing Processing 1.5.
 
 Simply run the sketch and adjust the various parameters you'll find on top (i.e. text, colours, font, and so on) to see it changing.
 
-### How to report issues
-
-Please use GitHub to report issues: [https://github.com/cyberandy/InSideOut10-Logo/issues](https://github.com/cyberandy/InSideOut10-Logo/issues).
-
 ### Special thanks and contributors
 
-**InSideOut10 Logo Generator** is an *Open Source* software started as an initiative of [InsideOut10](http://www.insideout.io) and based on the original artwork of [Ricard Marxer Piñón](http://www.ricardmarxer.com) that we would like to thank.
+**InSideOut10 Logo Generator** is an *Open Source* software started as an initiative of [InsideOut10](http://www.insideout.io) and based on the original artwork of [Ricard Marxer Piñón](http://www.ricardmarxer.com) that we would like to thank for creating the original sketch.
 
-Logo is not going to be used commercially but we had a lot of fun playing with the Geomerative Library and the original sketch.
+Logo is not going to be used commercially but we had a lot of fun playing with the Geomerative Library.
 
 ## License
 
