@@ -28,7 +28,7 @@ Logo is not going to be used commercially but we had a lot of fun playing with t
 ## License
 
 Copyright (c) 2012 InSideOut10 srl [www.insideout.io](http://www.insideout.io)
-Copyright (C) 2005 [Ricard Marxer Piñón](http://www.ricardmarxer.com)
+Copyright (c) 2005 [Ricard Marxer Piñón](http://www.ricardmarxer.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
